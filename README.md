@@ -1,3 +1,3 @@
 # hello-world
 Yeni bir dünya
-Ameliyathane hemşiresiyim basketbolcunun sprocuyum
+Ameliyathane hemşiresiyim basketbolcuyum sprocuyum
